@@ -1,0 +1,1 @@
+amount = principal * exp(1)^(annual_rate * num_years)

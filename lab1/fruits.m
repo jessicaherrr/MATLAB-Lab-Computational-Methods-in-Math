@@ -1,0 +1,1 @@
+num_fruits = num_apple_boxes * 7 + num_orange_boxes * 5 + num_banana_boxes * 3
